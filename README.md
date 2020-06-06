@@ -1,3 +1,3 @@
 # MyFirstAndroidApp
 
-coursera.org/verify/TAR7QU74ZNG3
+http://coursera.org/verify/TAR7QU74ZNG3
